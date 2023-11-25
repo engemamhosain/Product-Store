@@ -2,7 +2,8 @@
 # Build
 git clone 
 cd Product-Store and go guild 
-run ./Product-Store
+#run
+./product_store
 
 
 # api list
